@@ -4,5 +4,5 @@ Modull Gateway - Tích hợp thêm cổng thanh toán và SMS
 Handyman https://demo.baylenvietnam.com
 
 
-Viết tích hợp omnipay
+Cần tích hợp omnipay vào modull Gateway
 https://github.com/phpviet/laravel-omnipay
